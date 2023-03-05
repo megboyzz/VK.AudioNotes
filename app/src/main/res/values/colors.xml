@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#FF8CBCE3</color>
+    <color name="blue_500">#FF3B8CCF</color>
+    <color name="blue_700">#FF2E5CBF</color>
+    <color name="green_200">#FF65E2B0</color>
+    <color name="green_500">#FF26C485</color>
+    <color name="green_700">#FF285943</color>
+    <color name="black">#FF000000</color>
+    <color name="dividerGray">#1F979797</color>
+    <color name="bottomSheetKnob">#41000000</color>
+    <color name="surface">@android:color/white</color>
+    <color name="onSurface">@android:color/black</color>
+</resources>

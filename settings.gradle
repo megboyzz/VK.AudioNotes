@@ -1,0 +1,2 @@
+rootProject.name = "VK.Test"
+include ':app'
